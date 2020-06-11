@@ -33,5 +33,5 @@ JQuery is used for ease, faster and efficient development of the application sin
 
 
 <b>Developer</b><br />
-This app was developed by Fiagbe Joseph for the main purpose of submission to Fasylgh as testcode for a follow up on interview.
+This app was developed by Fiagbe Joseph.
 
