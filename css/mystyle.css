@@ -1,0 +1,37 @@
+/*Styles set for Elements on the Page*/
+body {
+    margin: 0;
+    padding: 0;
+}
+
+label {
+    margin-top: 4%;
+    margin-bottom: 3%;
+}
+
+textarea {
+    width: 100%;
+}
+
+/*Style set for the Banner*/ 
+#banner {
+    font-size: 180%;
+
+}
+
+/*Style set Notification on input fields*/
+.invalid-border {
+    border-left: 6px solid tomato;
+    border-radius: 5px;
+}
+
+.valid-border {
+    border-left: 6px solid greenyellow;
+    border-radius: 5px;
+}
+
+/* 
+    Created on : Jun 8, 2020, 10:22:55 PM
+    Author     : Fiagbe Joseph
+*/
+
