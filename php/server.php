@@ -1,4 +1,5 @@
 <?php
+
 //Checking if some post data was sent for processing
 if (isset($_POST)) {
     $inputdataArr = array();
@@ -57,5 +58,8 @@ if (isset($_POST)) {
         default :
             echo 'Invalid Case';
     }
+} else {
+    header("Location: ../index.php");
+    exit();
 }
 
