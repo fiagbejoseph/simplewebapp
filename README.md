@@ -21,7 +21,6 @@ JQuery 3.5 : Library with predefined functions and classes built on JavaScript
 <b>User Interface Note</b><br />
 Designed with Boostrap predefined classes like 'card' and used in combination with custom Style Sheet 'mystyle'.<br />
 <img src="img/interface.PNG" alt=""/>
-
 <b>Reasons for Libraries Used</b><br />
 JQuery is used for ease, faster and efficient development of the application since it has been tested as components that can be reusable, Also Boostrap was used for designing of the interface. JQuery Ajax was used to handle the Server post and retrival of results after processing. However it was used because of the feature of having to process data from the input field without reloading the webpage, so you check the number of vowels, consonants, characters and words of the same text provided in the input box.
 
@@ -31,7 +30,6 @@ JQuery is used for ease, faster and efficient development of the application sin
 3. Unzip the file to this directory.
 4. Start your server service
 5. Acces the application via a browser with the link "http://localhost/simplewebapp" or for domain users "http://yourdomain/simplewebapp" or for host with Ips, "http://ip-of-hostserver/simplewebapp"
-
 
 <b>Developer</b><br />
 This app was developed by Fiagbe Joseph.
