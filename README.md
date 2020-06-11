@@ -15,7 +15,7 @@ This application is developed with PHP Hypertext Preprocessor (PHP) and can be h
 Other languages such as Hypertext Markup Language (HTML)  is used for the web Elements, Casscading Style Sheets (CSS) is use for styling the Elements and JavaScript (JS) is used for some animation and a bridge to post and retrieve results of processing from Server.
 
 <b>Libraries</b><br />
-Boostrap 4.5 : Used for styling the webpage with native CSS 
+Boostrap 4.5 : Used for styling the webpage with native CSS<br /> 
 JQuery 3.5 : Library with predefined functions and classes built on JavaScript
 
 <b>Interface Note</b><br />
