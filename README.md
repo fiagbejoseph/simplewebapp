@@ -32,5 +32,5 @@ JQuery is used for ease, faster and efficient development of the application sin
 5. Acces the application via a browser with the link "http://localhost/simplewebapp" or for domain users "http://yourdomain/simplewebapp" or for host with Ips, "http://ip-of-hostserver/simplewebapp"
 
 <b>Developer</b><br />
-This app was developed by Fiagbe Joseph.
+Developed by Fiagbe Joseph.
 
