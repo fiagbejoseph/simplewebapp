@@ -1,7 +1,7 @@
 <?php
 
 //Checking if some post data was sent for processing
-if (isset($_POST)) {
+if ((isset($_POST)) && (!empty($_POST))) {
     $inputdataArr = array();
     $inputdata = $_POST['inputdata'];
 
@@ -59,6 +59,7 @@ if (isset($_POST)) {
             echo 'Invalid Case';
     }
 } else {
+//    Redirect to the Index page when page loads without post data
     header("Location: ../index.php");
     exit();
 }
